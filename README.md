@@ -1,3 +1,18 @@
+Screen flow. 
+
+Select the vendor and dates and service type
+
+<img src="./Screen%20Shot%202020-11-20%20at%2011.55.58%20PM.png" />
+
+Book slot
+
+<img src="./Screen%20Shot%202020-11-20%20at%2011.56.49%20PM.png" />
+
+Complete your booking
+
+<img src="./Screen%20Shot%202020-11-20%20at%2011.57.11%20PM.png" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
